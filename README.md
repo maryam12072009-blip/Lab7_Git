@@ -1,14 +1,14 @@
-\# Storage Estimator
+# Storage Estimator
 
 
 
-\## Purpose
+## Purpose
 
 A simple Python program that calculates the total storage needed for a number of files of the same size, in MB and KB.
 
 
 
-\## How to Run
+## How to Run
 
 Run the program with:
 
@@ -22,7 +22,7 @@ Enter the file size in MB, then the number of files.
 
 
 
-\## Example
+## Example
 
 Input:
 
@@ -48,7 +48,7 @@ Output:
 
 
 
-\## Author
+## Author
 
 Maryam Tariq, 604330, A
 
