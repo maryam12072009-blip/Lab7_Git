@@ -15,7 +15,7 @@ Run the program with:
 
 
 
-&#x20;   python storage\_estimator.py
+    python storage_estimator.py
 
 
 
@@ -29,9 +29,9 @@ Input:
 
 
 
-&#x20;   Enter file size in MB: 10
+    Enter file size in MB: 10
 
-&#x20;   Enter number of files: 4
+    Enter number of files: 4
 
 
 
@@ -39,13 +39,13 @@ Output:
 
 
 
-&#x20;   === Storage Estimator ===
+    === Storage Estimator ===
 
-&#x20;   Number of files: 4
+    Number of files: 4
 
-&#x20;   Total size (MB): 40.0
+    Total size (MB): 40.0
 
-&#x20;   Total size (KB): 40960.0
+    Total size (KB): 40960.0
 
 
 
