@@ -5,5 +5,7 @@ count = int(input("Enter number of files: "))
 total_mb = size_mb * count
 total_kb = total_mb * 1024
 
+print("=== Storage Estimator ===")
+print("Number of files:", count)
 print("Total size (MB):", total_mb)
 print("Total size (KB):", total_kb)
